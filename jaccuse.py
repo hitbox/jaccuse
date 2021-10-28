@@ -1,6 +1,7 @@
 """
 My take on Sweigart's J'Accuse!
 """
+
 import argparse
 import random
 import time
